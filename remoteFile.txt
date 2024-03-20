@@ -1,2 +1,4 @@
 remote branch file text
 remote branch file Name
+
+This is new text added in this file.
